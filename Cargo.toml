@@ -1,0 +1,15 @@
+[package]
+name = "dc9-api-keys"
+version = "0.1.0"
+authors = ["Moses Apostol <mapo3126gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "0.13.0"
+rand_hc = "0.3.0"
+rand_core = "0.6.2"
+rand_chacha = "0.3.0"
+rand = "0.8.3"
+rand_distr = "0.3.0"
