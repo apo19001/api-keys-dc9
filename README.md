@@ -36,9 +36,6 @@ cryptic, but famuliar enough to build straight off way if you had experience wit
 of programming language. 
 
 # Useful Websites / Sources
-
-{Make a list of websites that you found helpful in this project}
-
 ### general resources 
 * [rust doc on struct](https://doc.rust-lang.org/rust-by-example/std/vec.html)
 * [tutorial point on struct](https://www.tutorialspoint.com/rust/rust_structure.htm)
