@@ -32,7 +32,7 @@ keys to be saved to a database later.
 * rand = "0.8.3" 
 
 I programmed in RUST, a language based off of C/C++. It was super interesting, the errors were
-cryptic, but famuliar enough to build straight off way if you had experience with a C-type
+cryptic, but familiar enough to build straight off way if you had experience with a C-type
 of programming language. 
 
 # Useful Websites / Sources
