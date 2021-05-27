@@ -46,7 +46,7 @@ of programming language.
 
 ### resources on api key generation
 * [general process for api key](https://stackoverflow.com/questions/14412132/whats-the-best-approach-for-generating-a-new-api-key)
-* [investigation into what public vs private keys](https://stackoverflow.com/questions/55009503/how-services-generate-and-use-public-and-secret-api-keys/61301438#61301438)
+* [investigation into what is a public vs private keys](https://stackoverflow.com/questions/55009503/how-services-generate-and-use-public-and-secret-api-keys/61301438#61301438)
 * [generating numbers from Hc128](https://stackoverflow.com/questions/62923895/how-do-i-generate-random-numbers-using-hc-128-in-rust)
 * [how to base64 data](https://crates.io/crates/base64)
 * [how can i convert array Vec u8 nto string?](https://stackoverflow.com/questions/58051863/convert-u8-array-to-base64-string-in-rust)
